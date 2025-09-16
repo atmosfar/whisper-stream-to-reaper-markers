@@ -1,4 +1,4 @@
-# Reaper Whisper-Stream Integration
+# Reaper whisper-stream integration
 
 This ReaScript provides real-time audio transcription in [REAPER](https://www.reaper.fm/) by integrating [`whisper.cpp`](https://github.com/ggml-org/whisper.cpp)'s `whisper-stream` tool. The script automatically starts transcribing when Reaper is recording and adds the text as project markers on the timeline.
 
